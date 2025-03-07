@@ -11,3 +11,5 @@
 sansa e200 emulator
 
 https://www.rockbox.org/tracker/task/6524?histring=emulator%20sansa
+
+做出已有的开源三坐标测量仪
